@@ -1,0 +1,27 @@
+# This file contains additional build requirements that did not get
+# picked up automatically. One name per line, no whitespace.
+apache-maven2
+jdk-commons-compress
+jdk-easymock3
+jdk-felix
+jdk-fusesource-pom
+jdk-hamcrest
+jdk-hawtjni-project
+jdk-junit4
+jdk-maven-archiver
+jdk-maven-bundle-plugin
+jdk-maven-compiler-plugin
+jdk-maven-filtering
+jdk-maven-jar-plugin
+jdk-maven-javadoc-plugin
+jdk-maven-resources-plugin
+jdk-maven-shared-incremental
+jdk-maven-shared-utils
+jdk-plexus-archiver
+jdk-plexus-build-api
+jdk-plexus-compiler
+jdk-plexus-io
+jdk-snappy
+jdk-surefire
+jdk-xbean
+jdk-xz
