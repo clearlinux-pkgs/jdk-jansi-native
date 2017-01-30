@@ -4,7 +4,7 @@
 #
 Name     : jdk-jansi-native
 Version  : jansi.native.1.5
-Release  : 1
+Release  : 2
 URL      : https://github.com/fusesource/jansi-native/archive/jansi-native-1.5.tar.gz
 Source0  : https://github.com/fusesource/jansi-native/archive/jansi-native-1.5.tar.gz
 Summary  : No detailed summary available
@@ -19,7 +19,6 @@ BuildRequires : jdk-aopalliance
 BuildRequires : jdk-aqute-bndlib
 BuildRequires : jdk-atinject
 BuildRequires : jdk-cdi-api
-BuildRequires : jdk-cglib
 BuildRequires : jdk-commons-beanutils
 BuildRequires : jdk-commons-cli
 BuildRequires : jdk-commons-codec
@@ -30,6 +29,7 @@ BuildRequires : jdk-commons-io
 BuildRequires : jdk-commons-lang
 BuildRequires : jdk-commons-lang3
 BuildRequires : jdk-commons-logging
+BuildRequires : jdk-commons-parent
 BuildRequires : jdk-commons-validator
 BuildRequires : jdk-doxia
 BuildRequires : jdk-doxia-sitetools
@@ -71,7 +71,6 @@ BuildRequires : jdk-maven-resources-plugin
 BuildRequires : jdk-maven-shared-incremental
 BuildRequires : jdk-maven-shared-utils
 BuildRequires : jdk-objectweb-asm
-BuildRequires : jdk-objenesis
 BuildRequires : jdk-osgi-compendium
 BuildRequires : jdk-osgi-core
 BuildRequires : jdk-plexus-archiver
